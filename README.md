@@ -27,7 +27,7 @@ O modelo consiste em um dataset de imagens de cachorros(imagens aproveitadas do 
 
 o modelo foi treinado no meu computador pessoal rodando o anaconda onde salvei o modelo para o uso na maquina na nuvem.
 
-OBS.: Falantando configurar o envio da imagem para o algoritimo avaliar se é um pombo ou cachorro, sendo o pombo, será realizada uma requisição a api do telegram para avisa aos clientes.
+OBS.: Falantando configurar o envio da imagem para o algoritimo avaliar se é um pombo ou cachorro, sendo o pombo, será realizada uma requisição a api do telegram para notificar os clientes.
 
 Acurácia do treinamento:
 
