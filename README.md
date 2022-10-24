@@ -8,7 +8,7 @@ Projeto final do bootcamp EY Dio
 ## Motivação
 
 Na casa dos meus pais em Cabo Frio, RJ, pombos invadem a casa para comer a ração do cachorro e em alguns casos vão até a cozinha.
-Como essa ave transmite diversas doenças, precisamos de uma sistema de monitamento que avisa aos meus pais quando o pombo chegar.
+Como essa ave transmite diversas doenças, precisamos de uma sistema de monitamento que avisa aos meus pais quando o pombo invadir o ambiente.
 
 ## Detalhes do projeto:
 
