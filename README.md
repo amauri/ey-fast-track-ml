@@ -16,6 +16,9 @@ Como essa ave transmite diversas doenças, precisamos de uma sistema de monitame
 1.1 - Instalção do aplicativo motion(https://motion-project.github.io/)
 O aplicativo fica rodando em segundo plano monitorando o ambiente, quando ocorre movimento, uma fotografia é tirada e enviada para a nuvem.
 
+![Rpi](https://user-images.githubusercontent.com/301956/197634960-691e575c-4038-4f4f-90dc-b13f9078fee5.png)
+
+
 2- VM na OCI(Oracle Cloud Infraestructure) com o ubuntu 22.04 server e Anaconda.
 
 3 - O projeto consite um 2 microserviços:
